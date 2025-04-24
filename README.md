@@ -1,4 +1,4 @@
-<h1> ACTIVE DIRECTORY HOME LAB LAB</h1>
+<h1> ACTIVE DIRECTORY HOME LAB</h1>
 
  ### [SOHO TOPOLOGY](https://youtu.be/7eJexJVCqJo)
  

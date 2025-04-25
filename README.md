@@ -1,4 +1,4 @@
-<h1> ACTIVE DIRECTORY HOME LAB</h1>
+<h1> ACTIVE DIRECTORY HOME PROJECT</h1>
 
  ### [BASIC HOME LAB Running Active Directory, Adding Users w/ PowerShell](https://i.imgur.com/AtLH5UW.png)
  

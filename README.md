@@ -41,8 +41,8 @@ Next configure both NICS for the DC: <br/>
 <br />
 
 <p align="center">
-Connect Network Devices: <br/>
-<img src="https://i.imgur.com/67PPeoH.png" height="80%" width="80%" />
+Create Domain, RAS/NAT, and DHCP for DC: <br/>
+<img src="https://i.imgur.com/g4dVjBk.png" height="80%" width="80%" />
 <br />
 <br />
 

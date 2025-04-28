@@ -29,13 +29,13 @@ FINNISHED NETWORK TOPOLOGY: <br/>
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch Oracle VirtualBox VM Manager utility and click "NEW": <br/>
+Launch Oracle VirtualBox VM Manager utility and Add New VM: <br/>
 <img src="https://i.imgur.com/i6pv04R.png" height="80%" width="80%" />
 <br />
 <br />
 
 <p align="center">
-Layout Network Foundation: <br/>
+Next Click "Settings" and setup: <br/>
 <img src="https://i.imgur.com/xY1rZ2u.png" height="80%" width="80%" />
 <br />
 <br />

@@ -35,7 +35,7 @@ Launch Oracle VirtualBox VM Manager utility and Add New VM: <br/>
 <br />
 
 <p align="center">
-Next configure both NICS for the DC: <br/>
+Configure both NICS for the DC: <br/>
 <img src="https://i.imgur.com/YlwOBok.png" height="80%" width="80%" />
 <br />
 <br />
@@ -51,6 +51,11 @@ Add Domain Users via Powershell: <br/>
 <img src="https://i.imgur.com/pMA8DMD.png" height="80%" width="80%" />
 <br />
 
+<p align="center">
+Create DHCP Client VM Win10 User: <br/>
+<img src="https://i.imgur.com/zQWZkDm.png" height="80%" width="80%" />
+<br />
+ 
  <p align="center">
 Finnished Topology including all configurations: <br/>
 <img src="https://i.imgur.com/isNzE0k.png" height="80%" width="80%" />

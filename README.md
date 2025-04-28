@@ -35,8 +35,8 @@ Launch Oracle VirtualBox VM Manager utility and Add New VM: <br/>
 <br />
 
 <p align="center">
-Next Click "Settings" and setup: <br/>
-<img src="https://i.imgur.com/xY1rZ2u.png" height="80%" width="80%" />
+Next Click "Settings" and configure both NICS for the DC: <br/>
+<img src="https://i.imgur.com/YlwOBok.png" height="80%" width="80%" />
 <br />
 <br />
 

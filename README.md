@@ -29,8 +29,8 @@ FINNISHED NETWORK TOPOLOGY: <br/>
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the Cisco utility: <br/>
-<img src="https://i.imgur.com/TRm3GMD.png" height="80%" width="80%" />
+Launch Oracle VirtualBox VM Manager utility and click "NEW": <br/>
+<img src="https://i.imgur.com/i6pv04R.png" height="80%" width="80%" />
 <br />
 <br />
 

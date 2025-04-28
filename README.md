@@ -7,7 +7,7 @@
 Project consists of Building a lab utilizing Virtual Box, Windows 10 ISO and Server 2019 ISO. Adding a VMWare Network, Domain Setup, Win10 Client, and Adding 1k+ users with PowerShell!
 <br />
 
-
+ 
 <h2>Languages and Utilities Used</h2>
 
 - <b>VM WARE</b> 
@@ -20,7 +20,13 @@ Project consists of Building a lab utilizing Virtual Box, Windows 10 ISO and Ser
 - <b>Oracle VirtualBox</b>
 - <b>Windows 10</b>
 
-<h2>Program walk-through:</h2>
+<p align="center">
+FINNISHED NETWORK TOPOLOGY: <br/>
+<img src="https://i.imgur.com/ct6cPGK.png" height="80%" width="80%" />
+<br />
+<br />
+
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the Cisco utility: <br/>

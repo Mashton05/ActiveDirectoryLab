@@ -48,7 +48,7 @@ Create Domain, RAS/NAT, and DHCP for DC: <br/>
 
 <p align="center">
 Add Domain Users via Powershell: <br/>
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/pMA8DMD.png" height="80%" width="80%" />
 <br />
 
  <p align="center">

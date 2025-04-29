@@ -58,7 +58,7 @@ Create DHCP Client VM Win10 User: <br/>
  
  <p align="center">
 Connect Client1 to Domain (Project Complete) See above for Topology: <br/>
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/BgoucGK.png" height="80%" width="80%" />
 <br />
   
 </p>

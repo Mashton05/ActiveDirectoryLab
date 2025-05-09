@@ -1,6 +1,6 @@
 <h1> ACTIVE DIRECTORY HOME PROJECT</h1>
 
- ### [BASIC HOME LAB Running Active Directory, Adding Users w/ PowerShell](https://github.com/Mashton05/MAIN-REPO/blob/main/ACTIVEDIRECTORY.png?raw=true)
+ ### [BASIC HOME LAB Running Active Directory, Adding Users w/ PowerShell](https://raw.githubusercontent.com/Mashton05/MAIN-REPO/refs/heads/main/ACTIVEDIRECTORY.png?token=GHSAT0AAAAAADCU2NDM6LVKQTJEUHLKEIGI2A5NSSA)
  
 
 <h2>Description</h2>

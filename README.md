@@ -1,6 +1,6 @@
 <h1> ACTIVE DIRECTORY HOME PROJECT</h1>
 
- ### [BASIC HOME LAB Running Active Directory, Adding Users w/ PowerShell](https://i.imgur.com/AtLH5UW.png)
+ ### [BASIC HOME LAB Running Active Directory, Adding Users w/ PowerShell](https://tinyurl.com/kbzr999u)
  
 
 <h2>Description</h2>
